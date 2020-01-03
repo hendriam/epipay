@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b7a82cd6a7918937c4fc55d91a3454d0",
+    "revision": "b3172797d3e1c455511a9a3627ac4a3c",
     "url": "/epipay/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/epipay/static/css/2.17e5ed98.chunk.css"
   },
   {
-    "revision": "32f8edea0026da4b8aea",
+    "revision": "20cb9e5113fef5f2b0ae",
     "url": "/epipay/static/css/main.60cfe9f2.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/epipay/static/js/2.f45799bf.chunk.js.LICENSE"
   },
   {
-    "revision": "32f8edea0026da4b8aea",
-    "url": "/epipay/static/js/main.f3b033ea.chunk.js"
+    "revision": "20cb9e5113fef5f2b0ae",
+    "url": "/epipay/static/js/main.4c11a573.chunk.js"
   },
   {
     "revision": "f1d19cbbeddb8832bd8a",

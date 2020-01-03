@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/epipay/precache-manifest.c2d3be56cd4f695b73c52073b5724777.js"
+  "/epipay/precache-manifest.b79a44b58a6fb9817ff3853586945423.js"
 );
 
 self.addEventListener('message', (event) => {
