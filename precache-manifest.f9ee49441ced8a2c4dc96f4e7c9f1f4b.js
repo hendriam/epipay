@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b3172797d3e1c455511a9a3627ac4a3c",
+    "revision": "018cb5dee54e44e5f317d9f0b60dfbe8",
     "url": "/epipay/index.html"
   },
   {
